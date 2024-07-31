@@ -1,0 +1,12 @@
+{
+  "RSTUDIO_PANDOC": "path to pandoc for using rmarkdown::render",
+  
+  "CONNECTION_STRING": "odbc connection string",
+  "API_URL": "url of api",
+  "API_TOKEN": "token for OAuth",
+  
+  "EXCEL_NAME": "Statistic",
+  "EXCEL_SAVE_PATH": "output/Excel",
+  "DASHBOARD_NAME": "Dashboard",
+  "DASHBOARD_SAVE_PATH": "output/Dashboards"
+}

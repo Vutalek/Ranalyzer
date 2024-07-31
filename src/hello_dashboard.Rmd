@@ -1,0 +1,9 @@
+---
+title: "Hello dashboard"
+output: 
+  flexdashboard::flex_dashboard
+---
+### `r hello`
+```{r}
+flexdashboard::valueBox(100, icon = "fa-pencil")
+```
